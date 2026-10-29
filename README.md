@@ -8,8 +8,7 @@
 
 ## 最新策划案与技术路线
 
-- [作品策划案 PDF 阅读版](docs/suichesuan-proposal-20261029.pdf)
-- [作品策划案 Word 可编辑版](docs/suichesuan-proposal-20261029.docx)
+- [作品策划案在线版](docs/proposal.md)
 - [技术路线说明](docs/technical-route.md)
 
 2026 年 10 月 29 日更新：采用 **AIUI＋视觉模型＋独立 OCR＋规则核验＋本地账本**，先验证拍照核价完整链路，再验证连续取图和自动取放。方案涵盖普通包装与已称重贴签商品、静默交互、设备验证和研发里程碑，分别说明已实现原型与待验证能力。
